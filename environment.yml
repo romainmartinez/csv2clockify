@@ -1,0 +1,7 @@
+name: csv2clockify
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - requests
+  - pandas
