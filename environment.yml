@@ -5,3 +5,5 @@ dependencies:
   - python
   - requests
   - pandas
+  - python-dotenv
+  - pylint
